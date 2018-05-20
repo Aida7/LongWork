@@ -1,0 +1,15 @@
+c:\users\админ\source\repos\LongWork\LongWork\bin\Debug\LongWork.exe.config
+c:\users\админ\source\repos\LongWork\LongWork\bin\Debug\LongWork.exe
+c:\users\админ\source\repos\LongWork\LongWork\bin\Debug\LongWork.pdb
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.csprojResolveAssemblyReference.cache
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\MainWindow.g.cs
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\App.g.cs
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork_MarkupCompile.cache
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork_MarkupCompile.lref
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\MainWindow.baml
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.g.resources
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.Properties.Resources.resources
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.csproj.GenerateResource.Cache
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.csproj.CoreCompileInputs.cache
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.exe
+c:\users\админ\source\repos\LongWork\LongWork\obj\Debug\LongWork.pdb

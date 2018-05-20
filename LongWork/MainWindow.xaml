@@ -1,0 +1,15 @@
+﻿<Window x:Class="LongWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LongWork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+		<Button Click="Stop_Clik" Content="Stop" HorizontalAlignment="Left" Height="34" Margin="362,263,0,0" VerticalAlignment="Top" Width="111"/>
+		<Label Name="text" HorizontalAlignment="Left" Height="31" Margin="161,88,0,0" VerticalAlignment="Top" Width="172"/>
+		<Button Click="Save_Clik" Content="Save" HorizontalAlignment="Left" Height="34" Margin="86,263,0,0" VerticalAlignment="Top" Width="111"/>
+
+	</Grid>
+</Window>
